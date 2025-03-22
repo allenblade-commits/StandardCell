@@ -67,25 +67,3 @@ This project is open-source under the **MIT License**.
 
 ## Contact
 For any queries, reach out to **Allen Stanley** ([@allenblade-commits](https://github.com/allenblade-commits)).
-
-## 🔥 Animated Demo
-
-To enhance the readability of the repository, you can add GIFs or animated SVGs demonstrating the circuit simulations and layouts. Here's how:
-
-### Adding GIFs:
-1. Record your **simulation waveforms** or **layout routing** using screen recording software.
-2. Convert the recording to GIF format using tools like **ScreenToGif** or **EZGIF**.
-3. Upload the GIF to the repository and embed it in the README:
-   ```md
-   ![Simulation Demo](path-to-your-gif.gif)
-   ```
-
-### Adding SVG Animations:
-If you prefer vector-based animations, you can use **SVGator** or **Lottie** to create an animated visualization of circuit operations.
-
-Example:
-```md
-<img src="path-to-your-svg.svg" width="500px" alt="Animated Circuit Simulation">
-```
-
-🔥 **Feel free to add your own animations and enhance the documentation!** 🚀
